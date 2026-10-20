@@ -1,0 +1,91 @@
+{
+  "year": 2024,
+  "transaction_count": 658,
+  "annual_spending": 31379.93,
+  "average_monthly_spending": 2614.99,
+  "priciest_month": {
+    "month": "2024-11",
+    "amount": 4087.81
+  },
+  "cheapest_month": {
+    "month": "2024-09",
+    "amount": 1977.91
+  },
+  "category_totals": {
+    "Rent": 10200.0,
+    "Shopping": 5719.58,
+    "Transport": 5338.68,
+    "Food": 4989.19,
+    "Bills": 3253.65,
+    "Entertainment": 1878.83
+  },
+  "category_share_percent": {
+    "Rent": 32.5,
+    "Shopping": 18.23,
+    "Transport": 17.01,
+    "Food": 15.9,
+    "Bills": 10.37,
+    "Entertainment": 5.99
+  },
+  "average_monthly_spending_by_category": {
+    "Rent": 850.0,
+    "Food": 415.77,
+    "Transport": 444.89,
+    "Entertainment": 156.57,
+    "Bills": 271.14,
+    "Shopping": 476.63
+  },
+  "budget_utilization_percent": {
+    "Rent": 100.0,
+    "Food": 83.15,
+    "Transport": 234.15,
+    "Entertainment": 130.47,
+    "Bills": 123.24,
+    "Shopping": 99.3
+  },
+  "months_over_budget": {
+    "Rent": 0,
+    "Food": 0,
+    "Transport": 12,
+    "Entertainment": 10,
+    "Bills": 1,
+    "Shopping": 2
+  },
+  "top_five_costliest_days": [
+    {
+      "date": "2024-11-29",
+      "amount": 1970.72
+    },
+    {
+      "date": "2024-03-14",
+      "amount": 1487.27
+    },
+    {
+      "date": "2024-06-20",
+      "amount": 1307.6
+    },
+    {
+      "date": "2024-08-03",
+      "amount": 1294.56
+    },
+    {
+      "date": "2024-10-09",
+      "amount": 1126.35
+    }
+  ],
+  "top_five_days_share_percent": 22.9,
+  "total_spending_by_month": {
+    "2024-01": 2070.78,
+    "2024-02": 2062.2,
+    "2024-03": 3531.0,
+    "2024-04": 2019.48,
+    "2024-05": 1988.46,
+    "2024-06": 3173.37,
+    "2024-07": 2129.17,
+    "2024-08": 3188.39,
+    "2024-09": 1977.91,
+    "2024-10": 2983.16,
+    "2024-11": 4087.81,
+    "2024-12": 2168.2
+  }
+}
